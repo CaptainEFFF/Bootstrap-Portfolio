@@ -1,0 +1,76 @@
+body{
+    background: url(../images/neon.jpg);
+}
+
+.profile{
+    width:300px;
+    height:250px;
+    margin: 1vh;
+}
+
+.container{
+    background-color: #1d1d1f;
+    color: white;
+}
+
+.main-content{
+    background-color: #1d1d1f90;
+    color: white;
+}
+
+
+.seperator{
+    background-color: white;
+    height:2px;
+    width:98%;
+    margin:1% 1%
+}
+
+.footer{
+    background-color: #1d1d1f;
+    color: white;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    line-height: 60px;
+    height:60px;
+}
+
+#foottop{
+    background-color: #02f3fe;
+    position: relative;
+    top: -1px;
+    height: 5px;
+}
+
+.port_link{
+    
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin:40px;
+}
+
+.port-image{
+    height:300px;
+    width: 300px;
+}
+
+.port_text{
+    color:white;
+    background-color:#02f3fe90;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    text-align:center;
+    position: absolute;
+    bottom:-100px;
+    left:0px;
+    width:300px;
+    height:40px;
+    padding:8px 0 0;
+}
+
+.custom-margin{
+    margin-bottom:20px;
+}
