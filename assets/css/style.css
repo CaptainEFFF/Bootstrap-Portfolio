@@ -1,5 +1,6 @@
 body{
     background: url(../images/neon.jpg);
+    
 }
 
 .profile{
@@ -11,11 +12,15 @@ body{
 .container{
     background-color: #1d1d1f;
     color: white;
+    
 }
 
 .main-content{
+    min-height: 100%;
     background-color: #1d1d1f90;
     color: white;
+    margin: 0 auto -60px;
+    padding: 0 0 60px
 }
 
 
@@ -29,8 +34,6 @@ body{
 .footer{
     background-color: #1d1d1f;
     color: white;
-    position:absolute;
-    bottom:0;
     width:100%;
     text-align: center;
     line-height: 60px;
